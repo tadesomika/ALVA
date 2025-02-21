@@ -35,7 +35,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git add active.txt
-        git add error.txt
+        git add dead.txt
         if git diff --cached --exit-code; then
           echo "No changes to commit"
         else
