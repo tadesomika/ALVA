@@ -1,0 +1,44 @@
+name: Update Proxy IP Status
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *'
+  workflow_dispatch: 
+
+jobs:
+  update-proxies:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Update proxy status
+      env:
+        IP_FILE: 'IP Proxy'
+        API_URL: 'https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip={ip}&host=speed.cloudflare.com&port={port}&tls=true'
+      run: |
+        python update_proxy_status.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add IP Proxy
+        git add error.txt
+        if git diff --cached --exit-code; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update proxy IP status"
+          git push
+        fi
