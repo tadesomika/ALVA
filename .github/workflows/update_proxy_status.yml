@@ -25,7 +25,7 @@ jobs:
 
     - name: Update proxy status
       env:
-        IP_FILE: 'IP Proxy'
+        IP_FILE: 'active.txt'
         API_URL: 'https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip={ip}&host=speed.cloudflare.com&port={port}&tls=true'
       run: |
         python update_proxy_status.py
@@ -34,7 +34,7 @@ jobs:
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git add IP Proxy
+        git add active.txt
         git add error.txt
         if git diff --cached --exit-code; then
           echo "No changes to commit"
