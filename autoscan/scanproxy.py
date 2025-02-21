@@ -16,7 +16,7 @@ async def clear_file(filepath):
 
 async def check_proxy(ip, port, country, organization, active_cache, dead_cache):
     
-    proxy_url = f"http://{ip}:{port}"
+    proxy_url = f"https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip={ip}&host=speed.cloudflare.com&port={port}&tls=true"
     result = f"{ip},{port},{country},{organization}"
 
     try:
