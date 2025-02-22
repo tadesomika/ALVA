@@ -39,7 +39,7 @@ def main():
     input_file = os.getenv('IP_FILE', 'active.txt')
     output_file = 'active.txt'
     error_file = 'dead.txt'
-    api_url_template = os.getenv('API_URL', 'https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip={ip}&host=speed.cloudflare.com&port={port}&tls=true')
+    api_url_template = os.getenv('API_URL', 'https://proxyip-check.vercel.app/{ip}:{port}')
 
     alive_proxies = []
     error_logs = []
