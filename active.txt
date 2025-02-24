@@ -17215,3 +17215,4 @@
 77.243.80.224,443,KZ,PS Internet Company
 45.159.51.121,32199,MY,Kaopu Cloud Hk Limited
 195.141.65.98,443,CH,Sunrise
+195.15.242.197,443,CH,Infomaniak Network
