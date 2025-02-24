@@ -2,7 +2,7 @@ name: Update Proxy IP Status
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Jalankan setiap 4 jam sekali
+    - cron: '0 */6 * * *'  # Jalankan setiap 6 jam sekali
   workflow_dispatch: 
 
 jobs:
@@ -34,8 +34,7 @@ jobs:
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git add active.txt
-        git add dead.txt
+        git add active.txt dead.txt
         if git diff --cached --exit-code; then
           echo "No changes to commit"
         else
