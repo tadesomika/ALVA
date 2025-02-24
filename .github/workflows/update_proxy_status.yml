@@ -1,4 +1,4 @@
-name: Update Proxy IP Status
+name: 🌐 Update Proxy IP Status
 
 on:
   schedule:
@@ -8,29 +8,30 @@ on:
 jobs:
   update-proxies:
     runs-on: ubuntu-latest
+    name: 🚀 Update Proxy IP Status
 
     steps:
-    - name: Checkout repository
+    - name: 📂 Checkout Repository
       uses: actions/checkout@v3
 
-    - name: Set up Python
+    - name: 🐍 Set Up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
-    - name: Install dependencies
+    - name: 📦 Install Dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Update proxy status
+    - name: 🔄 Update Proxy Status
       env:
         IP_FILE: 'active.txt'
         API_URL: 'https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip={ip}&host=speed.cloudflare.com&port={port}&tls=true'
       run: |
         python update_proxy_status.py
 
-    - name: Commit and push changes
+    - name: 📤 Commit and push changes
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
