@@ -17205,3 +17205,4 @@
 38.107.235.72,443,KZ,Newserverlife
 194.135.25.23,58183,KZ,JSC Transtelecom
 94.131.2.171,443,KZ,Stark Industries Solutions
+194.135.25.23,34902,KZ,JSC Transtelecom
