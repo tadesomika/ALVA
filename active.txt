@@ -17211,3 +17211,4 @@
 194.135.25.23,46436,KZ,JSC Transtelecom
 194.135.25.23,53282,KZ,JSC Transtelecom
 38.180.206.27,443,KZ,NLS Kazakhstan
+77.240.38.114,443,KZ,PS Internet Company
