@@ -17214,3 +17214,4 @@
 77.240.38.114,443,KZ,PS Internet Company
 77.243.80.224,443,KZ,PS Internet Company
 45.159.51.121,32199,MY,Kaopu Cloud Hk Limited
+195.141.65.98,443,CH,Sunrise
