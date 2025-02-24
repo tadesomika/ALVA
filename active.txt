@@ -17200,3 +17200,4 @@
 62.72.46.14,8443,SG,Contabo Asia Private
 124.243.144.158,6177,SG,Huawei Cloud
 114.119.187.30,12521,SG,Huawei Cloud
+101.44.163.253,21578,SG,Huawei Cloud
