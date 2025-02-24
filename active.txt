@@ -17203,3 +17203,4 @@
 101.44.163.253,21578,SG,Huawei Cloud
 5.76.16.193,443,KZ,JSC Kazakhtelecom
 38.107.235.72,443,KZ,Newserverlife
+194.135.25.23,58183,KZ,JSC Transtelecom
