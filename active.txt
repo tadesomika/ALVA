@@ -17194,3 +17194,4 @@
 
 52.74.101.26,443,SG,Amazon.com
 172.232.237.112,2053,ID,Akamai Connected Cloud
+31.58.136.31,443,AE,Latitude-sh
