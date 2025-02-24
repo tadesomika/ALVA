@@ -21,10 +21,10 @@ def check_proxy(row, api_url_template):
             status = False
 
         if status:
-            print(f"{ip}:{port} is ALIVE")
+            print(f"{ip}:{port} ✅ AKTIF")
             return (row, None)
         else:
-            print(f"{ip}:{port} is DEAD")
+            print(f"{ip}:{port} ❌ TIDAK AKTIF")
             return (None, None)
     except requests.exceptions.RequestException as e:
         error_message = f"Error checking {ip}:{port}: {e}"
