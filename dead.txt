@@ -117,3 +117,6 @@ Error checking 149.28.247.220:8443: 500 Server Error: Internal Server Error for 
 Error checking 194.147.33.188:443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=194.147.33.188&host=speed.cloudflare.com&port=443&tls=true
 Error checking 204.110.222.24:80: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=204.110.222.24&host=speed.cloudflare.com&port=80&tls=true
 Error checking 217.196.107.252:8443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=217.196.107.252&host=speed.cloudflare.com&port=8443&tls=true
+
+2.56.221.72,81,ES,G-Core
+109.176.244.80,2053,FR,OVHcloud
