@@ -17207,3 +17207,4 @@
 94.131.2.171,443,KZ,Stark Industries Solutions
 194.135.25.23,34902,KZ,JSC Transtelecom
 85.198.89.12,443,KZ,Itglobalcom Kaz Llp
+85.92.120.113,443,KZ,Optinet LLP
