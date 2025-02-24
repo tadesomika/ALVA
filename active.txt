@@ -17198,3 +17198,4 @@
 91.192.81.154,8443,SG,Melbikomas UAB
 31.192.238.71,2053,SG,Chelyabinsk-Signal
 62.72.46.14,8443,SG,Contabo Asia Private
+124.243.144.158,6177,SG,Huawei Cloud
