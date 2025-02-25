@@ -14109,3 +14109,4 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 38.180.206.27,443,KZ,NLS Kazakhstan
 
 35.219.15.90,443,ID,Google Cloud
+43.133.149.163,52698,ID,Tencent cloud computing
