@@ -14107,7 +14107,6 @@ ovh.nex.sh,443,SG,OVH Hosting
 85.92.120.113,443,KZ,Optinet LLP
 my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 38.180.206.27,443,KZ,NLS Kazakhstan
-
 35.219.15.90,443,ID,Google Cloud
 43.133.149.163,52698,ID,Tencent cloud computing
 172.232.237.112,2053,ID,Akamai Connected Cloud
@@ -14115,3 +14114,4 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 128.199.200.18,2053,SG,Digital Ocean
 178.128.221.187,2053,SG,Digital Ocean
 111.119.235.98,8443,SG,Syscon Infoway Pvt. Ltd.
+38.76.145.153,443,US,Cogent Communications
