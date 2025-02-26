@@ -14117,3 +14117,4 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 38.76.145.153,443,US,Cogent Communications
 202.181.26.189,443,HK,Cloudie Limited
 43.156.253.94,443,SG,Tencent cloud computing
+192.53.113.156,587,SG,Akamai Connected Cloud
