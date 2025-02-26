@@ -14120,3 +14120,8 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 192.53.113.156,587,SG,Akamai Connected Cloud
 109.120.134.95,443,SE,AEZA INTERNATIONAL LTD
 109.120.133.225,443,NL,Aeza International
+109.120.155.92,443,SE,Aeza International
+47.250.119.234,587,MY,Alibaba
+141.11.17.205,443,MY,Gigabit Hosting Sdn Bhd
+60.50.83.246,443,MY,TM Net
+202.186.86.188,443,MY,TIME Fibre Optic
