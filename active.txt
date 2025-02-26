@@ -14127,3 +14127,4 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 202.186.86.188,443,MY,TIME Fibre Optic
 203.194.112.119,2053,ID,Rumahweb
 203.194.112.119,8443,ID,Rumahweb
+54.169.229.188,443,SG,Amazon.com
