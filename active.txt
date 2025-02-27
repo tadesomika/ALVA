@@ -9581,3 +9581,5 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 154.90.39.188,48071,MY,LightNode_Limited
 111.119.235.98,N/A,SG,Syscon Infoway Pvt. Ltd.
 52.74.101.26,N/A,SG,Amazon.com
+47.236.25.107,27903,SG,Alibaba
+45.76.183.217,49292,SG,Vultr
