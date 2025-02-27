@@ -9622,3 +9622,15 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 204.110.223.64,80,US,Amazon.com
 67.226.222.126,80,US,Amazon.com
 204.110.220.175,80,US,Amazon.com
+204.110.220.86,80,US,Amazon.com
+204.110.220.123,80,US,Amazon.com
+84.8.145.58,443,GB,Oracle Cloud
+204.110.220.158,80,US,Amazon.com
+204.110.220.195,80,US,Amazon.com
+204.110.220.56,80,US,Amazon.com
+204.110.223.187,80,US,Amazon.com
+204.110.220.150,80,US,Amazon.com
+204.110.220.209,80,US,Amazon.com
+204.110.223.66,80,US,Amazon.com
+204.110.221.81,80,CA,Amazon.com
+204.110.223.221,80,US,Amazon.com
