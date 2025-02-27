@@ -9583,3 +9583,11 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 52.74.101.26,N/A,SG,Amazon.com
 47.236.25.107,27903,SG,Alibaba
 45.76.183.217,49292,SG,Vultr
+129.150.58.86,57621,SG,Oracle Cloud
+47.74.254.191,8900,SG,Alibaba
+103.180.161.123,587,SG,Zillion-network
+138.2.89.238,43254,SG,Oracle Cloud
+47.236.119.190,51342,SG,Alibaba
+51.79.158.126,443,SG,OVH Hosting
+119.81.201.154,9089,SG,SoftLayer Technologies
+47.245.95.160,1443,SG,Alibaba
