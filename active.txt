@@ -9591,3 +9591,11 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 51.79.158.126,443,SG,OVH Hosting
 119.81.201.154,9089,SG,SoftLayer Technologies
 47.245.95.160,1443,SG,Alibaba
+141.147.113.246,443,US,Tempest-hosting
+158.101.192.233,443,DE,Zenlayer
+154.17.230.119,443,US,DMIT
+141.147.113.116,443,DE,Tempest-hosting
+158.178.153.133,443,DE,Zenlayer
+84.8.149.195,443,DE,Zenlayer
+67.226.222.191,80,US,Amazon.com
+152.70.53.233,443,US,Tempest-hosting
