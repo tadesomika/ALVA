@@ -9634,3 +9634,9 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 204.110.223.66,80,US,Amazon.com
 204.110.221.81,80,CA,Amazon.com
 204.110.223.221,80,US,Amazon.com
+204.110.223.218,80,US,Amazon.com
+204.110.223.194,80,US,Amazon.com
+204.110.223.244,80,US,Amazon.com
+67.226.222.79,80,US,Amazon.com
+204.110.223.25,80,US,Amazon.com
+204.110.220.131,80,US,Amazon.com
