@@ -9657,3 +9657,9 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 168.138.197.97,8443,JP,Oracle Cloud
 141.147.183.49,29876,JP,Oracle Cloud
 149.28.30.146,44243,JP,Vultr
+43.245.198.240,587,SG,IPTELECOM Global
+161.117.249.114,2025,SG,Alibaba Cloud
+129.150.36.188,53435,SG,Oracle Cloud
+89.168.71.179,443,DE,Tempest-hosting
+158.101.152.6,2919,JP,Oracle Cloud
+138.2.23.218,47598,JP,Cloudflare Warp
