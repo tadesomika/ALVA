@@ -9615,3 +9615,10 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 103.99.115.137,6379,US,Cnservers LLC
 52.213.11.150,443,IE,Amazon.com
 144.21.56.133,443,DE,Zenlayer
+204.110.220.100,80,US,Amazon.com
+204.110.220.68,80,US,Amazon.com
+204.110.220.161,80,US,Amazon.com
+204.110.220.203,80,US,Amazon.com
+204.110.223.64,80,US,Amazon.com
+67.226.222.126,80,US,Amazon.com
+204.110.220.175,80,US,Amazon.com
