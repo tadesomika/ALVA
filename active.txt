@@ -9652,3 +9652,8 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 204.110.221.197,80,CA,Amazon.com
 204.110.221.88,80,CA,Amazon.com
 67.226.222.233,80,US,Amazon.com
+85.113.70.29,19125,JP,xTom Japan Co.
+138.2.12.103,14453,JP,Cloudflare Warp
+168.138.197.97,8443,JP,Oracle Cloud
+141.147.183.49,29876,JP,Oracle Cloud
+149.28.30.146,44243,JP,Vultr
