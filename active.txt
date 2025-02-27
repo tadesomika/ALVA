@@ -9606,3 +9606,12 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn
 67.226.222.213,80,US,Amazon.com
 67.226.222.129,80,US,Amazon.com
 132.145.232.171,443,DE,Oracle Cloud
+204.110.220.242,80,US,Amazon.com
+67.226.222.24,80,US,Amazon.com
+67.226.222.88,80,US,Amazon.com
+8.219.170.232,443,SG,Alibaba
+103.99.115.137,3306,US,Cnservers LLC
+103.99.115.232,1443,US,Cnservers LLC
+103.99.115.137,6379,US,Cnservers LLC
+52.213.11.150,443,IE,Amazon.com
+144.21.56.133,443,DE,Zenlayer
