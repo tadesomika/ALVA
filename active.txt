@@ -5949,3 +5949,4 @@ ovh.nex.sh,443,SG,OVH Hosting
 192.53.113.156,587,SG,Akamai Connected Cloud
 146.190.111.165,443,SG,Digital Ocean
 8.222.243.73,26385,SG,Alibaba
+103.81.172.34,443,BD,ADN Telecom
