@@ -5937,3 +5937,15 @@ ovh.nex.sh,443,SG,OVH Hosting
 138.2.23.218,47598,JP,Cloudflare Warp
 139.162.48.174,10000,SG,Akamai Connected Cloud
 141.147.183.49,29876,JP,Oracle Cloud
+178.62.17.85,443,GB,Digital Ocean
+129.150.58.86,57621,SG,Oracle Cloud
+47.74.254.191,8900,SG,Alibaba
+103.180.161.123,587,SG,Zillion-network
+129.150.49.58,18650,SG,Oracle Cloud
+168.138.166.213,10500,SG,Oracle Cloud
+146.235.18.248,45137,SG,Oracle Cloud
+47.236.246.163,14108,SG,Alibaba
+54.169.229.188,443,SG,Amazon.com
+192.53.113.156,587,SG,Akamai Connected Cloud
+146.190.111.165,443,SG,Digital Ocean
+8.222.243.73,26385,SG,Alibaba
