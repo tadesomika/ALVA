@@ -4669,3 +4669,4 @@ ovh.nex.sh,443,SG,OVH Hosting
 103.81.172.34,443,BD,ADN Telecom
 my1.your-project.live,12306,MY,Gigabit Hosting Sdn Bhd
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
+43.218.77.16,443,ID,Amazon.com
