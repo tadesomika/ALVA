@@ -4675,3 +4675,4 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn Bhd
 172.232.237.31,587,ID,Akamai Connected Cloud
 172.235.251.223,443,ID,Akamai Connected Cloud
 172.235.251.7,587,ID,Akamai Connected Cloud
+38.180.100.80,443,RS,M247 Europe
