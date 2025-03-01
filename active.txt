@@ -4672,3 +4672,6 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn Bhd
 43.218.77.16,443,ID,Amazon.com
 8.215.19.67,587,ID,Alibaba
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
+172.232.237.31,587,ID,Akamai Connected Cloud
+172.235.251.223,443,ID,Akamai Connected Cloud
+172.235.251.7,587,ID,Akamai Connected Cloud
