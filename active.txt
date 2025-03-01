@@ -4678,3 +4678,4 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn Bhd
 38.180.100.80,443,RS,M247 Europe
 101.44.163.253,21578,SG,Huawei Cloud
 52.74.101.26,443,SG,Amazon.com
+163.47.9.27,2053,SG,Digital Ocean
