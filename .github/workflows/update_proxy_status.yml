@@ -8,22 +8,22 @@ on:
 jobs:
   update-proxies:
     runs-on: ubuntu-latest
-    name: 🚀 Update Proxy IP Status
+
     steps:
-    - name: 📂 Checkout Repository
+    - name: 📂 Checkout repository
       uses: actions/checkout@v3
 
-    - name: 🐍 Set Up Python
+    - name: 🐍 Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.11'  # Gunakan Python 3.11 (versi stabil)
 
-    - name: 📦 Install Dependencies
+    - name: 📦 Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: 🔄 Update Proxy Status
+    - name: 🔄 Update proxy status
       env:
         IP_FILE: 'active.txt'  # File input
         API_URL: 'https://proxyip-check.vercel.app/{ip}:{port}'  # API untuk pengecekan satu per satu
@@ -42,4 +42,3 @@ jobs:
           git commit -m "Update proxy IP status"
           git push
         fi
-        
