@@ -16435,3 +16435,4 @@
 140.238.225.218,80,IN,Cloudflare Warp
 3.69.0.8,443,DE,Amazoncom
 52.74.101.26,443,SG,Amazoncom
+36.95.152.58,12137,ID,PT Telkom Indonesia
