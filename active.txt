@@ -16211,3 +16211,4 @@
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
 35.219.50.99,443,ID,Google Cloud
 35.219.15.90,443,ID,Google Cloud
+101.44.163.253,21578,SG,Huawei Cloud
