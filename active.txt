@@ -4679,3 +4679,5 @@ my1.your-project.live,12306,MY,Gigabit Hosting Sdn Bhd
 101.44.163.253,21578,SG,Huawei Cloud
 52.74.101.26,443,SG,Amazon.com
 163.47.9.27,2053,SG,Digital Ocean
+139.162.33.248,587,SG,Akamai Connected Cloud
+167.71.194.185,8443,SG,Digital Ocean
