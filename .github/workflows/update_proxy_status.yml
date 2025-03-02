@@ -25,7 +25,7 @@ jobs:
 
     - name: 🔄 Update Proxy Status
       env:
-        IP_FILE: 'f74bjd2h2ko99f3j5'  # File input
+        IP_FILE: 'active.txt'  # File input
         API_URL: 'https://proxyip-check.vercel.app/{ip}:{port}'  # API untuk pengecekan satu per satu
       run: |
         python update_proxy_status.py
