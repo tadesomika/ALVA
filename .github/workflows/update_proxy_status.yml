@@ -2,14 +2,13 @@ name: 🌐 Update Proxy IP Status
 
 on:
   schedule:
-    - cron: '0 0 */3 * *'  # Jalankan setiap 3 hari sekali pada pukul 00:00 UTC
-  workflow_dispatch: 
+    - cron: '0 0 */7 * *'  # Pengecekan setiap 7 hari sekali
+  workflow_dispatch:
 
 jobs:
   update-proxies:
     runs-on: ubuntu-latest
     name: 🚀 Update Proxy IP Status
-
     steps:
     - name: 📂 Checkout Repository
       uses: actions/checkout@v3
@@ -17,7 +16,7 @@ jobs:
     - name: 🐍 Set Up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.x'
+        python-version: '3.11'  # Gunakan Python 3.11 (versi stabil)
 
     - name: 📦 Install Dependencies
       run: |
@@ -26,8 +25,8 @@ jobs:
 
     - name: 🔄 Update Proxy Status
       env:
-        IP_FILE: 'active.txt'
-        API_URL: 'https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip={ip}&host=speed.cloudflare.com&port={port}&tls=true'
+        IP_FILE: 'f74bjd2h2ko99f3j5'  # File input
+        API_URL: 'https://proxyip-check.vercel.app/{ip}:{port}'  # API untuk pengecekan satu per satu
       run: |
         python update_proxy_status.py
 
@@ -35,10 +34,12 @@ jobs:
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git add active.txt dead.txt
+        git add active.txt
+        git add dead.txt
         if git diff --cached --exit-code; then
           echo "No changes to commit"
         else
           git commit -m "Update proxy IP status"
           git push
         fi
+        
