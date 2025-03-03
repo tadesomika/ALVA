@@ -16212,3 +16212,4 @@
 35.219.50.99,443,ID,Google Cloud
 35.219.15.90,443,ID,Google Cloud
 101.44.163.253,21578,SG,Huawei Cloud
+138.2.61.180,443,JP,Cloudflare
