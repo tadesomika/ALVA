@@ -16213,3 +16213,5 @@
 35.219.15.90,443,ID,Google Cloud
 101.44.163.253,21578,SG,Huawei Cloud
 138.2.61.180,443,JP,Cloudflare
+62.72.46.14,8443,SG,Contabo Asia Private
+110.34.164.39,28758,SG,Vpls Asia
