@@ -16216,3 +16216,4 @@
 62.72.46.14,8443,SG,Contabo Asia Private
 110.34.164.39,28758,SG,Vpls Asia
 156.230.12.71,443,CN,263 Shanghai Communications
+35.175.133.211,443,US,Amazon.com
