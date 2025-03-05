@@ -16217,3 +16217,6 @@
 110.34.164.39,28758,SG,Vpls Asia
 156.230.12.71,443,CN,263 Shanghai Communications
 35.175.133.211,443,US,Amazon.com
+4.152.146.110,443,US,Microsoft Azure
+5.78.63.107,443,US,Hetzner Online
+5.78.114.254,443,US,Hetzner Online
