@@ -25,7 +25,7 @@ def check_proxy_single(ip, port, api_url_template):
             return (ip, port, None)  # Format: (ip, port, None)
         else:
             print(f"{ip}:{port} [❌ TIDAK AKTIF]")
-            return (None, None, f"{ip}:{port} is DEAD")  # Format: (None, None, error_message)
+            return (None, None, f"{ip}:{port} [❌ TIDAK AKTIF]")  # Format: (None, None, error_message)
     except requests.exceptions.RequestException as e:
         error_message = f"Error checking {ip}:{port}: {e}"
         print(error_message)
@@ -95,7 +95,7 @@ def main():
     # Ganti file input dengan file output
     try:
         shutil.move(output_file, input_file)
-        print(f"{input_file} telah diperbarui dengan proxy yang ✅ AKTIF.")
+        print(f"{input_file} telah diperbarui dengan proxy yang [✅ AKTIF].")
     except Exception as e:
         print(f"Error menggantikan {input_file}: {e}")
 
