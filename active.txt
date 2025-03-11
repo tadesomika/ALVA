@@ -14930,3 +14930,6 @@
 13.228.142.218,443,SG,Amazon.com+Inc
 13.228.155.72,443,SG,Amazon.com+Inc
 13.229.159.215,443,SG,Amazon.com+Inc
+172.232.237.31,587,ID,Akamai Connected Cloud
+172.232.237.91,587,ID,Akamai Connected Cloud
+172.232.236.13,587,ID,Akamai Connected Cloud
