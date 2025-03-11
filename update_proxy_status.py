@@ -39,7 +39,7 @@ def main():
     input_file = os.getenv('IP_FILE', 'active.txt')
     output_file = 'active.txt'
     error_file = 'dead.txt'
-    api_url_template = os.getenv('API_URL', 'https://proxyip-check.vercel.app/{ip}:{port}')
+    api_url_template = os.getenv('API_URL', 'https://lodd.vercel.app/{ip}:{port}')
 
     alive_proxies = []  # Menyimpan proxy yang aktif dengan format [ip, port, cc, isp]
     error_logs = []  # Menyimpan pesan error
@@ -95,10 +95,9 @@ def main():
     # Ganti file input dengan file output
     try:
         shutil.move(output_file, input_file)
-        print(f"{input_file} telah diperbarui dengan proxy yang ALIVE.")
+        print(f"{input_file} telah diperbarui dengan proxy yang ✅ AKTIF.")
     except Exception as e:
         print(f"Error menggantikan {input_file}: {e}")
 
 if __name__ == "__main__":
     main()
-        
