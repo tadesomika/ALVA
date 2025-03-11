@@ -14933,3 +14933,4 @@
 172.232.237.31,587,ID,Akamai Connected Cloud
 172.232.237.91,587,ID,Akamai Connected Cloud
 172.232.236.13,587,ID,Akamai Connected Cloud
+172.232.239.134,443,ID,Akamai Connected Cloud
