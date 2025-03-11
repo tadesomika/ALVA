@@ -16134,3 +16134,117 @@
 92.223.44.19,2096,UZ,GCore Labs SA
 82.117.252.178,443,US,Green Floid
 38.54.30.6,443,VN,Kaopu Cloud HK
+129.151.149.168,25061,AE,Oracle Cloud
+67.226.221.106,80,US,Amazoncom
+67.226.221.58,80,US,Amazoncom
+146.0.79.50,443,NL,Hostkey
+193.123.66.187,34501,AE,Oracle Cloud
+219.76.13.181,443,HK,Netvigator
+147.45.116.61,8443,BR,Global Connectivity Solutions Llp
+8.141.9.154,443,US,Alibaba
+213.238.182.234,2096,TR,MarkaHost
+47.111.229.11,443,CN,Hangzhou Alibaba Advertising Co
+74.120.174.34,443,US,IT7 Networks Inc
+91.108.241.3,2053,AU,Aeza International
+89.22.227.190,443,NL,Aeza International
+5.198.177.71,28500,DE,dataforest
+5.198.177.145,33857,DE,Hetzner Online
+5.198.177.105,51692,DE,Cyberse  Co KG
+5.198.177.105,22019,DE,Cyberse  Co KG
+5.198.177.143,56331,IR,Webdade
+107.189.12.152,443,DE,FranTech Solutions
+5.198.177.110,39733,DE,Hetzner Online GmbH
+5.198.177.201,2083,IR,Webdade
+107.182.30.199,443,US,IT7 Networks Inc
+139.162.133.162,36075,DE,Akamai Connected Cloud
+139.162.133.162,52982,DE,Akamai Connected Cloud
+139.162.133.162,58148,DE,Akamai Connected Cloud
+139.162.133.162,20091,DE,Akamai Connected Cloud
+139.162.133.162,27936,DE,Akamai Connected Cloud
+139.196.17.3,443,US,Alibaba
+31.57.241.156,443,DE,Dasabo Europe
+154.9.204.163,443,US,IPTELECOM Global
+91.194.11.78,81,CA,PQ HOSTING SRL
+174.137.53.41,443,US,IT7 Networks Inc
+176.9.239.181,443,DE,Hetzner Online
+89.22.226.118,2053,SE,Aeza International
+198.105.124.180,443,FI,Iservers
+175.212.44.200,50000,KR,KT
+194.163.153.220,7443,DE,Contabo GmbH
+95.164.46.242,443,IT,Stark Industries Solutions
+94.182.134.126,58815,IR,Fanavaran Mehr Vatan Tehran Server Group
+77.91.122.34,2053,NL,Stark Industries Solutions
+204.110.220.113,80,US,Amazoncom
+101.32.189.119,1996,HK,Tencent cloud computing
+67.226.221.135,80,US,Amazoncom
+140.83.61.244,443,JP,Oracle Cloud
+192.18.134.231,443,US,Oracle Cloud
+13.40.128.14,8443,GB,Amazoncom
+67.226.222.8,80,US,Amazoncom
+18.135.188.86,443,GB,Amazoncom
+150.230.44.13,443,US,Oracle Cloud
+18.135.67.188,443,GB,Amazoncom
+67.226.223.165,80,GB,Amazoncom
+204.110.223.67,80,US,Amazoncom
+67.226.221.238,80,US,Amazoncom
+67.218.155.64,443,US,IT7 Networks
+52.137.60.154,443,NL,Microsoft Azure
+204.110.220.72,80,US,Amazoncom
+204.110.220.65,80,US,Amazoncom
+204.110.220.109,80,US,Amazoncom
+67.226.222.134,80,US,Amazoncom
+204.110.220.68,80,US,Amazoncom
+81.19.140.56,8443,CA,Global Connectivity Solutions Llp
+45.95.232.68,8443,CH,Global Connectivity Solutions Llp
+1.180.69.230,11306,CN,China Telecom
+1.180.69.230,12645,CN,China Telecom
+116.225.125.144,20025,CN,China Telecom
+2.56.127.220,8443,CY,Stark Industries Solutions
+2.56.127.220,2053,CY,Stark Industries Solutions
+5.182.86.55,443,DE,Aeza International
+5.75.200.148,8080,DE,Hetzner Online
+80.76.32.54,443,DE,First Server
+85.192.61.212,443,FI,Aeza International
+51.210.101.146,2087,FR,OVHcloud
+94.131.118.107,8443,FR,Stark Industries Solutions
+67.226.223.75,80,GB,Amazoncom
+141.98.234.14,2053,HK,Global Connectivity Solutions Llp
+121.142.223.72,28051,KR,KT
+121.142.223.72,32193,KR,KT
+121.142.223.72,21431,KR,KT
+121.142.223.72,29227,KR,KT
+121.131.180.71,50000,KR,KT
+124.5.180.192,50000,KR,DLIVE
+182.172.211.112,30012,KR,DLIVE
+195.123.214.18,2053,LV,Green Floid
+109.120.158.162,443,NL,Digital City FZE
+185.209.161.104,443,NL,King Servers
+89.169.35.173,443,NL,Aeza International
+185.151.247.22,8443,PL,Host4Biz sp z oo
+109.120.133.56,8443,SE,Aeza International
+89.22.226.1,2053,SE,Aeza International
+168.138.184.172,443,SG,Oracle Cloud
+94.131.108.197,2057,TR,Stark Industries Solutions LTD
+94.131.108.197,2055,TR,Stark Industries Solutions LTD
+94.131.108.197,2054,TR,Stark Industries Solutions LTD
+95.164.116.166,2053,TR,Stark Industries Solutions
+95.164.116.166,8443,TR,Stark Industries Solutions
+103.159.207.168,2443,TW,Emagine Concept
+144.34.228.116,587,US,IT7 Networks Inc
+20.171.78.1,24911,US,Microsoft Azure
+204.110.220.81,80,US,Amazoncom
+67.226.221.231,80,US,Amazoncom
+158.101.24.17,443,US,Oracle Cloud
+67.226.221.156,80,US,Amazoncom
+67.226.221.211,80,US,Amazoncom
+67.226.221.81,80,US,Amazoncom
+49.207.36.81,443,IN,ACT Fibernet
+65.49.203.137,443,US,IT7 Networks
+74.121.149.15,443,US,IT7 Networks
+5.198.177.109,12129,DE,Hetzner Online
+5.198.177.228,32719,IR,Webdade
+5.198.177.138,42870,DE,Hetzner Online
+107.189.2.220,443,LU,FranTech Solutions
+5.198.177.197,2053,IR,Webdade
+89.235.118.200,8443,TR,GCore Labs SA
+89.235.118.200,2053,TR,GCore Labs SA
