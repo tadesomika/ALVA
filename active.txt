@@ -16248,3 +16248,567 @@
 5.198.177.197,2053,IR,Webdade
 89.235.118.200,8443,TR,GCore Labs SA
 89.235.118.200,2053,TR,GCore Labs SA
+119.81.201.154,9089,SG,SoftLayer Technologies
+38.180.121.147,443,NL,Scalaxy
+46.17.103.175,443,NL,Hostkey
+211.227.114.208,11504,KR,KT
+183.109.159.118,50000,KR,KT
+211.227.114.208,50000,KR,KT
+125.136.139.45,17497,KR,KT
+211.227.114.208,31204,KR,KT
+220.79.199.205,50000,KR,KT
+222.96.105.8,50000,KR,KT
+118.40.67.50,50003,KR,KT
+222.96.105.8,30010,KR,KT
+185.40.7.249,443,FI,First Server
+51.38.156.100,2095,FR,OVHcloud
+222.96.105.8,32846,KR,KT
+51.38.156.100,8880,FR,OVHcloud
+51.38.156.100,8443,FR,OVHcloud
+176.120.66.65,2083,CH,Stark Industries Solutions
+38.60.92.27,443,US,Fastnet Data
+142.93.133.91,443,NL,Digital Ocean
+5.188.0.234,2053,US,G-Core Labs SA
+37.192.41.195,443,RU,Novotelecom
+5.35.37.83,443,NL,Servers Tech Fzco
+38.180.21.33,443,IE,M247 Europe
+38.107.235.72,443,KZ,Newserverlife
+121.158.137.215,50000,KR,KT
+154.53.166.178,443,TR,Mailbox Internet Hizmetleri Sti
+45.150.165.13,443,US,Spartan Host
+142.171.243.209,2053,US,Multacom Corporation
+45.130.22.18,443,NL,Mullvad VPN
+93.179.114.64,443,US,IT7 Networks Inc
+39.116.245.197,50004,KR,SK Broadband
+221.165.8.35,50000,KR,KT
+180.83.216.244,50000,KR,LG Uplus
+46.32.187.245,443,LV,Sia Veesp
+67.230.178.10,9080,US,IT7 Networks
+107.173.164.106,443,US,ColoCrossing
+175.127.79.237,50004,KR,SK Broadband
+49.164.63.55,50000,KR,LG Uplus
+1.213.221.171,39650,KR,LG Uplus
+49.13.161.246,8000,DE,Hetzner Online
+3.124.208.189,443,DE,Amazoncom
+89.58.55.33,443,DE,netcup
+74.211.108.124,443,US,IT7 Networks
+89.58.55.193,443,DE,netcup
+89.58.52.160,443,DE,netcup
+79.137.248.133,443,NL,Aeza International
+89.58.39.163,443,DE,netcup
+89.22.236.159,443,SE,Aeza International
+89.58.57.45,443,DE,netcup
+87.228.9.243,443,RU,OOO Network of data-centers Selectel
+129.150.62.1,24016,SG,Oracle Cloud
+43.156.97.73,57145,SG,Tencent cloud computing
+5.187.5.125,443,DE,Fornex Hosting SL
+79.132.140.30,443,DE,Fornex Hosting SL
+103.14.92.88,443,SG,Akari Networks
+112.151.73.227,10409,KR,LG Uplus
+95.215.207.14,443,NL,Podaon SIA
+94.177.51.198,443,NL,Individual Entrepreneur Anton Levin
+138.2.85.23,8080,SG,Oracle Cloud
+91.107.136.122,443,DE,Hetzner Online
+58.176.95.46,443,HK,Hong Kong Broadband Network
+118.40.67.50,30001,KR,KT
+172.235.63.171,18896,US,Akamai Connected Cloud
+104.167.197.214,443,US,Newserverlife
+172.235.56.172,23189,US,Akamai Connected Cloud
+146.103.49.80,2053,FR,OVHcloud
+144.202.8.217,43705,US,Vultr
+144.202.8.217,28602,US,Vultr
+139.162.133.162,46785,DE,Akamai Connected Cloud
+64.227.142.175,2053,IN,Digital Ocean
+64.227.142.175,8443,IN,Digital Ocean
+147.45.49.107,8443,JP,Global Connectivity Solutions Llp
+154.9.249.242,443,US,Netlab-sdn
+188.245.215.31,443,DE,Hetzner Online GmbH
+188.245.230.218,443,DE,Hetzner Online
+188.245.79.30,443,DE,Hetzner Online GmbH
+108.160.139.154,2053,JP,Vultr
+221.155.34.111,30068,KR,KT
+221.165.164.92,30070,KR,KT
+62.60.217.158,443,NL,Aeza International
+62.60.155.71,443,NL,Aeza International
+62.60.228.143,443,FI,Aeza International
+206.237.10.52,29266,HK,Overland Storage
+43.154.200.160,20047,HK,Tencent cloud computing
+62.60.217.75,443,GB,Aeza International
+62.60.228.201,443,NL,Aeza International
+62.60.228.161,443,GB,Aeza International
+149.50.96.107,443,PL,Cloudflare Warp
+185.101.16.52,443,LB,Wave Net
+65.20.76.125,2053,IN,Vultr
+167.114.153.39,8443,CA,OVHcloud
+167.114.153.39,2053,CA,OVHcloud
+185.188.181.83,8443,FI,I-servers
+185.188.181.83,2053,FI,I-servers
+5.101.44.139,443,NL,Llhost
+179.43.156.21,2053,CH,Private Layer
+178.22.31.200,443,AT,Global Connectivity Solutions Llp
+174.137.61.42,443,US,IT7 Networks Inc
+176.191.128.203,443,FR,Bouygues Telecom
+178.22.31.65,443,AT,Global Connectivity Solutions Llp
+185.177.59.147,443,BG,Belcloud
+188.64.14.180,443,LV,Sia Veesp
+188.132.232.175,443,TR,Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Si
+70.34.214.50,2053,SE,Vultr
+209.97.172.173,443,SG,Digital Ocean
+195.133.39.69,443,NL,Individual Entrepreneur Anton Levin
+14.55.144.166,50000,KR,KT
+112.109.58.49,50000,KR,Ulsan Jung-Ang Broadcasting Network
+193.233.115.177,2053,RU,Aeza International
+193.233.115.177,8443,RU,Aeza International
+221.158.119.123,36248,KR,KT
+115.40.244.240,12696,KR,LG HelloVision Corp
+115.40.244.240,11211,KR,LG HelloVision Corp
+125.187.24.102,50000,KR,LG Uplus
+213.252.244.202,443,LT,Informacines sistemos ir technologijos UAB
+176.124.202.92,2053,SE,Aeza International
+91.107.161.108,443,DE,Hetzner Online
+92.246.137.122,8443,SE,Aeza International
+93.183.93.183,2053,RU,Hosting technology
+1.213.221.171,50000,KR,LG Uplus
+1.213.221.171,30073,KR,LG Uplus
+1.213.221.171,30067,KR,LG Uplus
+49.142.150.222,50000,KR,Hcn Chungbuk Cable Tv Systems
+39.126.183.69,50000,KR,Hcn Chungbuk Cable Tv Systems
+93.183.93.183,8443,RU,Hosting technology
+1.213.221.171,30047,KR,LG Uplus
+59.0.66.191,27051,KR,KT
+59.0.66.191,29657,KR,KT
+92.246.137.122,2053,SE,Aeza International
+80.240.25.196,2053,DE,Vultr
+185.105.89.222,8443,RU,First Server
+80.240.18.157,2053,DE,Vultr
+185.218.7.217,1443,US,Sakura Network LTD
+185.105.89.222,2053,RU,First Server
+45.139.24.10,2053,RU,Kviktel
+140.82.21.227,3533,US,Vultr
+109.107.189.148,8420,RU,Aeza Group
+112.155.196.229,50000,KR,LG Uplus
+94.228.169.231,2053,AT,Aeza International
+194.87.29.37,2053,DE,Aeza International
+194.87.45.12,2053,ES,Global Connectivity Solutions Llp
+109.107.189.148,2053,RU,Aeza Group
+195.133.18.65,8443,DE,Aeza International
+176.124.204.247,8443,DE,Aeza International
+194.87.45.12,8443,ES,Global Connectivity Solutions Llp
+213.156.142.27,2053,RO,G-Core Labs SA
+5.188.108.15,2053,PL,G-Core Labs SA
+86.110.56.87,2053,PL,OVHcloud
+45.144.49.167,2053,PL,Newserverlife
+193.124.92.170,443,DE,Big Data Host
+64.176.40.224,3533,JP,Vultr
+138.68.114.142,2083,DE,Digital Ocean
+64.225.106.147,2083,DE,Digital Ocean
+46.101.207.148,8443,DE,Digital Ocean
+86.110.56.63,2053,PL,OVHcloud
+89.251.22.140,443,PL,Regxa Cloud
+146.70.88.123,2053,FR,M247 Europe
+146.70.88.123,8443,FR,M247 Europe
+46.226.162.118,8443,GB,Aeza International
+159.65.58.204,2053,GB,Digital Ocean
+167.71.8.253,2053,NL,Digital Ocean
+165.232.104.200,2053,GB,Digital Ocean
+206.189.56.68,2053,DE,Digital Ocean
+134.209.193.71,2053,NL,Digital Ocean
+146.190.18.234,2053,NL,Digital Ocean
+188.166.7.81,2053,NL,Digital Ocean
+159.203.186.142,2053,US,Digital Ocean
+134.209.193.71,8443,NL,Digital Ocean
+8.218.184.0,587,HK,Alibaba
+47.238.58.125,587,HK,Alibaba
+91.103.252.154,2053,NL,HOSTGLOBALPLUS LTD
+65.109.186.57,2083,FI,Hetzner Online
+47.238.43.11,587,HK,Alibaba
+47.76.245.221,587,HK,Alibaba
+47.238.189.115,587,HK,Alibaba
+47.238.148.225,587,HK,Alibaba
+8.220.245.218,587,KR,Alibaba
+86.38.156.74,8443,DE,OVHcloud
+86.38.156.74,2053,DE,OVHcloud
+206.189.56.68,8443,DE,Digital Ocean
+91.236.169.54,8443,FI,Hetzner Online
+165.22.88.47,8443,DE,Digital Ocean
+159.65.58.204,8443,GB,Digital Ocean
+165.232.104.200,8443,GB,Digital Ocean
+191.96.153.3,8443,FR,OVHcloud
+191.96.153.3,2053,FR,OVHcloud
+132.145.115.199,10179,JP,Oracle Cloud
+45.112.195.91,2053,FR,OVHcloud
+47.79.43.130,443,JP,Alibaba
+159.203.186.142,8443,US,Digital Ocean
+2.57.242.72,2053,FR,OVHcloud
+5.144.181.92,2053,GB,OVHcloud
+47.79.120.86,443,SG,Alibaba
+2.57.242.47,2053,FR,OVHcloud
+5.144.181.149,2053,GB,OVHcloud
+46.29.235.36,8443,DK,Global Connectivity Solutions Llp
+146.185.162.148,8443,NL,Digital Ocean
+146.185.162.148,2053,NL,Digital Ocean
+46.29.235.36,2053,DK,Global Connectivity Solutions Llp
+45.136.70.251,2053,DK,Webdockio ApS
+5.144.181.149,8443,GB,OVHcloud
+38.95.112.102,45812,US,Zhejiang Aiyun Network Technology Co
+92.223.2.37,8443,AM,G-Core Labs SA
+92.223.2.37,2053,AM,G-Core Labs SA
+194.156.103.31,8443,AM,Global Connectivity Solutions Llp
+139.45.214.58,443,AM,RETN AM LLC
+139.45.214.118,443,AM,RETN AM LLC
+206.189.195.4,2053,US,Digital Ocean
+206.189.195.4,8443,US,Digital Ocean
+34.200.255.151,80,US,Amazoncom
+5.178.106.156,2053,DE,OVHcloud
+5.178.106.91,2053,DE,OVHcloud
+5.178.106.209,2053,DE,OVHcloud
+5.178.110.73,2053,DE,OVHcloud
+31.24.253.238,2053,DE,OVHcloud
+31.24.253.68,2053,DE,OVHcloud
+31.24.253.226,2053,DE,OVHcloud
+37.230.48.76,443,GB,OVHcloud
+45.95.80.70,2053,DE,OVHcloud
+45.95.80.58,2053,DE,OVHcloud
+45.95.80.180,2053,DE,OVHcloud
+37.202.202.86,2053,PL,OVHcloud
+146.190.18.234,8443,NL,Digital Ocean
+37.202.202.64,2053,PL,OVHcloud
+45.112.195.245,2053,FR,OVHcloud
+136.244.119.80,2053,FR,Vultr
+45.149.63.25,2053,PL,OVHcloud
+45.149.63.104,2053,PL,OVHcloud
+45.149.63.167,2053,PL,OVHcloud
+45.149.63.151,2053,PL,OVHcloud
+51.68.141.117,2053,PL,OVHcloud
+103.102.231.157,2053,FR,OVHcloud
+191.96.153.150,8443,FR,OVHcloud
+191.96.153.150,2053,FR,OVHcloud
+185.172.242.96,21819,PL,cnet24pl
+185.172.242.96,39807,PL,cnet24pl
+185.104.115.244,8443,PL,TimeWeb Ltd
+185.104.115.244,2053,PL,TimeWeb Ltd
+67.226.223.184,80,GB,Amazoncom
+82.117.245.66,2053,DE,OVHcloud
+213.218.238.35,2053,PL,OVHcloud
+191.96.153.159,2053,FR,OVHcloud
+86.38.156.19,8443,DE,OVHcloud
+86.38.156.19,2053,DE,OVHcloud
+47.89.244.253,443,US,Alibaba
+89.19.44.137,2053,DE,OVHcloud
+89.19.44.247,2053,DE,OVHcloud
+89.19.44.99,2053,DE,OVHcloud
+89.19.44.179,2053,DE,OVHcloud
+89.19.44.165,2053,DE,OVHcloud
+38.58.57.53,37294,US,NetLab
+172.233.151.74,36656,US,Akamai Connected Cloud
+5.144.182.73,2053,GB,OVHcloud
+135.125.140.132,8443,FR,OVHcloud
+135.125.140.132,2053,FR,OVHcloud
+89.39.120.131,2053,PL,OVHcloud
+89.39.120.176,2053,PL,OVHcloud
+104.234.50.149,2053,US,OVHcloud
+141.94.223.49,2053,FR,OVHcloud
+135.125.169.130,2053,FR,OVHcloud
+135.125.169.24,2053,FR,OVHcloud
+135.125.169.23,2053,FR,OVHcloud
+91.107.167.142,2001,DE,Hetzner Online
+91.107.167.142,6443,DE,Hetzner Online
+91.107.167.142,2090,DE,Hetzner Online
+91.107.167.142,2053,DE,Hetzner Online
+91.107.167.142,8443,DE,Hetzner Online
+135.125.169.130,8443,FR,OVHcloud
+129.150.35.29,587,SG,Oracle Cloud
+188.64.12.136,443,LV,Sia Veesp
+130.162.135.9,443,KR,Oracle Cloud
+146.56.129.186,443,KR,Oracle Cloud
+216.173.69.110,8443,LV,Sia Veesp
+188.64.12.107,443,LV,Sia Veesp
+216.173.69.110,2053,LV,Sia Veesp
+37.128.207.199,443,LV,Sia Veesp
+91.197.3.7,8443,LV,Sia Veesp
+5.34.215.98,443,LV,Sia Veesp
+149.56.46.206,443,CA,OVHcloud
+188.64.12.184,2053,LV,Sia Veesp
+188.64.12.212,2053,LV,Sia Veesp
+91.197.3.7,2053,LV,Sia Veesp
+188.64.13.222,8443,LV,Sia Veesp
+188.64.13.222,2053,LV,Sia Veesp
+188.64.12.212,8443,LV,Sia Veesp
+65.20.87.245,443,IN,Vultr
+172.235.251.223,443,ID,Akamai Connected Cloud
+172.235.251.223,587,ID,Akamai Connected Cloud
+45.77.55.86,2053,DE,Vultr
+45.77.64.28,2053,DE,Vultr
+45.76.80.253,2053,DE,Vultr
+80.240.24.48,2053,DE,Vultr
+80.240.23.230,2053,DE,Vultr
+80.240.21.202,2053,DE,Vultr
+80.240.16.153,8443,DE,Vultr
+95.179.164.162,2053,DE,Vultr
+45.32.153.123,2053,DE,Vultr
+95.179.251.27,8443,DE,Vultr
+80.240.29.169,2053,DE,Vultr
+108.61.190.42,2053,DE,Vultr
+104.207.131.222,2053,DE,Vultr
+95.179.251.58,2053,DE,Vultr
+70.34.223.217,2053,SE,Vultr
+45.77.52.102,2053,DE,Vultr
+70.34.216.81,8443,SE,Vultr
+129.146.111.62,443,US,Oracle Cloud
+150.136.87.192,443,US,Oracle Cloud
+136.244.89.190,2053,DE,Vultr
+192.248.189.204,2053,DE,Vultr
+136.244.90.151,2053,DE,Vultr
+70.34.216.81,2053,SE,Vultr
+217.163.29.188,2053,DE,Vultr
+209.250.239.80,2053,DE,Vultr
+192.248.178.81,2053,DE,Vultr
+209.250.236.123,2053,DE,Vultr
+192.248.174.82,2053,GB,Vultr
+136.244.90.180,2053,DE,Vultr
+155.138.217.97,2053,US,Vultr
+207.148.26.63,8443,US,Vultr
+155.138.238.22,2053,US,Vultr
+112.168.173.214,50003,KR,KT
+85.215.64.49,443,DE,1&1 Internet AG
+175.207.220.139,10909,KR,KT
+204.110.220.34,80,US,Amazoncom
+166.0.188.128,17251,US,Akile
+204.110.223.176,80,US,Amazoncom
+52.29.68.81,443,DE,Amazoncom
+8.219.203.159,443,SG,Alibaba
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+--card-bg: rgba(8, 12, 20, 0.95);
+--glow: 0 0 20px rgba(0, 255, 136, 0.3);
+font-family: 'Space Grotesk', sans-serif;
+text-align: center; /* Opsional, untuk memastikan teks sejajar */
+font-family: Arial, sans-serif; /* Font sederhana dan bersih */
+background: linear-gradient(90deg, red, orange, yellow
+background-color: rgba(63, 63, 63, 1); /* Hitam pekat (dark mode) */
+font-family: 'Rajdhani', sans-serif;
+0 0 5px rgba(0, 123, 255, 0.8)
+0 0 10px rgba(0, 123, 255, 0.8)
+0 0 20px rgba(0, 123, 255, 0.8)
+0 0 30px rgba(0, 123, 255, 0.8)
+0 0 40px rgba(0, 123, 255, 0.8);
+background: linear-gradient(45deg, var(--primary), var(--secondary), var(--dark));
+0%, 100% { transform: scale(1); filter: brightness(1); }
+header, footer {
+border: 0px solid rgba(143, 0, 0, 0.89); /* Border dengan warna abu-abu */
+.service-selector, .link1, .link2 {
+transition: background-color 0.3s, border-color 0.3s;
+.service-selector:hover, .link1:hover, .link2:hover {
+.container, .content {
+background-color: rgba(0, 0, 0, 0.82);
+box-shadow: 0 0 15px rgba(255, 255, 255, 0.6)
+0 0 30px rgba(0, 150, 255, 0.5);   /* Glow biru */
+background: rgba(0, 0, 0, 0);
+box-shadow: 2px 0 5px rgba(0, 0, 0, 0);
+text-shadow: 0 0 30px rgba(0, 255, 136, 0.5);
+.filters > div,
+.button, .button1, .button2, .button3  {
+border: 0px solid rgba(26, 4, 83, 0.81); /* Warna border hijau */
+background-color: rgba(0, 255, 136, 0.1); /* Warna hijau */
+margin: 20px 0; /* 20px atas dan bawah, 0px kiri dan kanan */
+box-shadow: 0 5px 15px rgba(0, 255, 136, 0.1);
+border: 0px solid rgba(183, 43, 0, 0.97); /* Border dengan warna abu-abu */
+background-color: rgba(14, 116, 255, 0.97);
+background-color: rgba(255, 61, 68, 0.97);
+.button:hover { background-color: #2980b9; border: 1px solid rgba(197, 51, 6, 0.89); border-radius: 8px; }
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+box-shadow: 0 8px 12px rgba(0, 0, 0, 0.3)
+background-color: rgba(239, 80, 0, 0.87); /* Warna latar belakang untuk baris ganjil */
+background-color: rgba(3, 117, 1, 0.87); /* Warna latar belakang untuk baris genap */
+.copy-vless,
+.copy-vless877,
+.copy-vless1,
+.copy-vless1877,
+.copy-trojan,
+.copy-trojan877,
+.copy-vless:active,
+.copy-vless877:active,
+.copy-vless1:active,
+.copy-vless1877:active,
+.copy-trojan:active,
+.copy-trojan877:active,
+box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+.copy-vless-clash,
+.copy-vless-clash877,
+.copy-vless2,
+.copy-vless2877,
+.copy-trojan-clash,
+.copy-trojan-clash877,
+.copy-vless-clash:active,
+.copy-vless-clash877:active,
+.copy-vless2:active,
+.copy-vless2877:active,
+.copy-trojan-clash:active,
+.copy-trojan-clash877:active,
+background-color: rgba(151, 180, 1, 1); /* Warna dasar biru */
+border: 1px solid rgba(197, 51, 6, 0.89); /* Border biru tua */
+background-color: rgba(0, 172, 128, 1);
+background-color: rgba(50, 0, 63, 0.84);
+background-color: rgba(0, 15, 123, 0.78);
+0 0 4px rgba(0, 123, 255, 0.8)
+0 0 6px rgba(0, 123, 255, 0.8)
+0 0 8px rgba(0, 123, 255, 0.8)
+0 0 15px rgba(0, 123, 255, 0.8);
+border: 0px solid rgba(197, 51, 6, 0.89); /* Border dengan warna abu-abu */
+border: px solid rgba(183, 43, 0, 0.97); /* Border dengan warna abu-abu */
+border: 1px solid rgba(183, 43, 0, 0.97); /* Border dengan warna abu-abu */
+background-color: rgba(255, 0, 0, 0.86);
+background-color: rgba(255, 108, 0, 0.86);
+<a href="https://wa.me/6281335135082" target="_blank" rel="noopener noreferrer" style="font-family: 'Rajdhani', sans-serif;">
+<a href="https://t.me/seaker877" target="_blank" rel="noopener noreferrer" style="font-family: 'Rajdhani', sans-serif;">
+<a href="https://t.me/kcepu_bot" target="_blank" rel="noopener noreferrer" style="font-family: 'Rajdhani', sans-serif;">
+<select id="items-per-page" style="font-family: 'Rajdhani', sans-serif; padding: 10px; background-color: rgba(0, 71, 200
+<input type="text" id="search-bar" placeholder="Search ID" style="font-family: 'Rajdhani', sans-serif; padding: 10px; background-color: rgba(0, 71, 200
+</td><td><select class="service-selector" id="app" class="form-control" style="font-family: 'Rajdhani', sans-serif; padding: 10px; background-color: rgba(0, 71, 200
+</td><td><select class="service-selector" id="bug" style="font-family: 'Rajdhani', sans-serif; padding: 10px; background-color: rgba(0, 71, 200
+<select class="service-selector" id="wildcard" class="form-control" style="font-family: 'Rajdhani', sans-serif; padding: 10px; background-color: rgba(0, 71, 200
+</td><td> <select class="service-selector" id="configType" class="form-control" style="font-family: 'Rajdhani', sans-serif; padding: 10px; background-color: rgba(0, 71, 200
+</td><td><select class="service-selector" id="country" class="form-control" style="font-family: 'Rajdhani', sans-serif; padding: 10px; background-color: rgba(0, 71, 200
+<input class="service-selector" type="number" id="limit" class="form-control" value="10" style="font-family: 'Rajdhani', sans-serif; padding: 10px; background-color: rgba(0, 71, 200
+</td><td> <input class="service-selector" type="text" id="link1" style="font-family: 'Rajdhani', sans-serif; padding: 10px; background-color: rgba(0, 71, 200
+const configType = Math.random().toString(36).substring(2, 10); // Generate random string
+document.getElementById("copyLink1").setAttribute("data-link", link1);
+title: 'Berhasil!',
+text: 'Link Sub telah berhasil disalin',
+background: 'rgba(6, 18, 67, 0.89)'
+icon: 'success',
+color: 'red', // Warna teks
+popup: 'rounded-popup',
+},
+confirmButtonColor: '#3085d6', // Warna tombol konfirmasi
+title: 'Gagal!',
+text: 'Terjadi kesalahan saat menyalin link.',
+icon: 'error',
+confirmButtonColor: '#d33', // Warna tombol konfirmasi
+document.addEventListener("DOMContentLoaded", function () {
+var inputs = document.querySelectorAll("#app, #configType, #bug, #tls
+input.addEventListener("change", generateLinks);
+}, 500); // Menunggu durasi animasi selesai (500ms)
+return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, c =>
+const id = filteredProxies.length > 0 ? filteredProxies[0].split(',')[2] : ''; // Ambil ID dari proxy pertama, asumsikan format 'ip,port
+let itemsPerPage = parseInt(perPageSelect.value, 15);
+perPageSelect.addEventListener('change', () => {
+itemsPerPage = parseInt(perPageSelect.value, 15);
+renderProxies(filteredProxies, proxyList, pagination, itemsPerPage);
+searchInput.addEventListener('input', () => {
+const [ip, port, id, isp] = proxy.split('
+.catch(error => console.error("Error fetching proxy data:", error));
+function checkProxyStatus(ip, port, statusElement) {
+// Memperkecil nilai latency, misalnya dibagi dengan 10
+// Membuang bagian setelah desimal, hanya menyisakan nilai integer
+function renderProxies(proxies, proxyList, pagination, itemsPerPage) {
+const pageProxies = proxies.slice(start, end);
+<td><select class="service-selector" style="font-family: 'Rajdhani', sans-serif; padding: 10px; background-color: rgba(0, 71, 200
+row.querySelector('.copy-vless').addEventListener('click', () => {
+text: 'COPY VLESS SIMPLE SUKSES!',
+row.querySelector('.copy-vless-clash').addEventListener('click', () => {
+text: 'COPY VLESS RIBET SUKSES!',
+row.querySelector('.copy-trojan').addEventListener('click', () => {
+text: 'COPY TROJAN SIMPLE SUKSES!',
+row.querySelector('.copy-trojan-clash877').addEventListener('click', () => {
+text: 'COPY TROJAN RIBET SUKSES!',
+row.querySelector('.copy-ss').addEventListener('click', () => {
+text: 'COPY SHADOWSOCK SIMPLE SUKSES!',
+row.querySelector('.copy-ss1').addEventListener('click', () => {
+text: 'COPY SHADOWSOCK RIBET SUKSES!',
+checkProxyStatus(ip, port, document.getElementById(`status-${ip}-${port}`));
+const startPage = Math.max(1, currentPage - 2);
+const endPage = Math.min(totalPages, currentPage + 2);
+158.255.77.166,443,AE,Innovative Telecom Systems FZE
+187.7.225.54,14275,BR,V+tal
+104.129.181.152,443,CA,IT7 Networks Inc
+95.128.71.155,443,BY,Private services Unitary Enterprise Vash Internet
+204.110.221.55,80,CA,Amazon.com+Inc
+101.74.239.199,21579,CN,CHINA+UNICOM+China169+Backbone
+136.244.95.181,8443,DE,Vultr
+141.144.197.120,443,DE,Zenlayer
+141.144.194.76,443,DE,Zenlayer
+141.144.253.109,443,DE,Oracle Cloud
+158.58.186.88,443,DE,Hetzner Online
+165.22.64.67,8443,DE,Digital Ocean
+31.24.253.34,2053,DE,OVHcloud
+31.40.4.59,8443,DE,Hetzner+Online
+91.107.154.214,443,DE,Hetzner Online
+45.136.70.251,8443,DK,Webdockio ApS
+135.181.34.171,2053,FI,Hetzner Online
+45.152.112.157,443,FR,CGI+GLOBAL+LIMITED
+94.131.9.190,2053,FR,Stark Industries Solutions
+67.226.223.178,80,GB,Amazoncom
+147.45.51.57,8443,IT,Global+Connectivity+Solutions+Llp
+147.45.49.107,2053,JP,Global Connectivity Solutions Llp
+155.248.163.175,33262,JP,Oracle+Cloud
+168.138.212.80,443,JP,Oracle+Cloud
+168.138.50.249,443,JP,Oracle+Cloud
+52.197.230.94,443,JP,Amazoncom
+54.199.222.232,443,JP,Amazoncom
+64.176.46.50,443,JP,Vultr
+1.221.220.170,50000,KR,LG+DACOM+Corporation
+112.151.73.227,18275,KR,LG+Uplus
+112.187.35.37,50000,KR,Korea+Telecom
+115.20.135.212,50000,KR,Korea+Telecom
+118.139.228.193,50000,KR,LG+HelloVision+Corp
+118.40.164.89,50000,KR,Korea+Telecom
+118.40.49.176,21441,KR,Korea+Telecom
+121.137.190.17,30066,KR,KT
+121.169.97.181,30067,KR,KT
+14.35.110.120,50000,KR,Korea+Telecom
+14.43.138.131,50000,KR,KT
+175.203.236.33,50000,KR,KT
+183.91.218.60,50000,KR,Namincheon+Brodcasting+Co+Ltd
+211.185.88.225,50000,KR,KT
+211.35.244.172,30044,KR,KT
+221.153.15.107,50000,KR,KT
+221.157.251.5,50000,KR,Korea+Telecom
+27.100.189.152,50000,KR,Kctv+Jeju+Broadcasting
+58.72.82.146,50000,KR,LG+DACOM+Corporation
+61.73.70.207,50000,KR,KT
+61.83.160.203,50000,KR,Korea+Telecom
+45.80.209.166,2053,LU,G-Core+Labs+S.A
+46.32.186.61,8443,LV,SIA+VEESP
+46.32.186.61,2053,LV,SIA+VEESP
+62.106.66.229,80,NL,BlueVPS OU
+81.19.137.62,4955,NL,Aeza International
+89.110.110.89,443,NL,Servers Tech Fzco
+45.82.153.130,8443,RU,Mt Finance
+109.120.133.40,2053,SE,AEZA+INTERNATIONAL+LTD
+109.120.134.62,2053,SE,Aeza International
+46.226.161.226,2053,SE,Aeza International
+62.60.159.29,2053,SE,AEZA+INTERNATIONAL+LTD
+70.34.202.47,8443,SE,Vultr
+89.22.237.194,2053,SE,Aeza International
+195.16.74.173,8443,TR,STARK+INDUSTRIES+SOLUTIONS+LTD
+103.159.207.168,2086,TW,Emagine+Concept
+107.172.0.33,443,US,ColoCrossing
+107.172.190.132,11401,US,ColoCrossing
+142.171.163.109,443,US,Multacom Corporation
+144.34.181.160,443,US,IT7 Networks Inc
+152.70.98.210,443,US,Zenlayer
+155.138.209.175,443,US,Vultr
+172.86.99.63,2053,US,RouterHosting
+172.96.195.65,443,US,IT7 Networks Inc
+185.238.248.47,55441,US,Cnservers LLC
+185.238.248.47,11876,US,Cnservers LLC
+185.208.180.163,443,US,HostPapa
+204.110.220.123,80,US,Amazoncom
+204.110.220.16,80,US,Amazoncom
+204.110.220.166,80,US,Amazoncom
+204.110.220.188,80,US,Amazoncom
+204.110.222.228,80,US,Amazoncom
+204.110.223.128,80,US,Amazoncom
+204.110.223.178,80,US,Amazoncom
+204.110.223.191,80,US,Amazoncom
+204.110.223.194,80,US,Amazoncom
+204.110.223.231,80,US,Amazoncom
+204.110.223.55,80,US,Amazoncom
+66.112.212.95,443,US,IT7+Networks+Inc
+67.226.221.163,80,US,Amazoncom
+67.226.221.28,80,US,Amazoncom
+67.226.221.52,80,US,Amazoncom
+67.226.221.98,80,US,Amazoncom
+67.226.222.191,80,US,Amazoncom
+67.226.222.38,80,US,Amazoncom
+67.230.174.219,443,US,IT7 Networks
