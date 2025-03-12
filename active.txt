@@ -16577,3 +16577,5 @@
 67.226.222.242,80,US,Amazoncom
 67.226.222.229,80,US,Amazoncom
 74.48.83.62,443,US,Multacom Corporation
+109.120.133.56,8443,SE,Aeza International
+38.46.3.168,53361,US,Zhejiang Aiyun Network Technology Co
