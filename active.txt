@@ -16543,3 +16543,5 @@
 195.16.74.133,8443,TR,Stark Industries Solutions
 195.16.74.133,2053,TR,Stark Industries Solutions
 95.164.116.218,2053,TR,Stark Industries Solutions
+121.153.36.122,30034,KR,KT
+193.46.56.137,2053,TR,Stark Industries Solutions
