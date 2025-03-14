@@ -16670,3 +16670,9 @@
 67.226.222.177,80,US,Amazoncom
 67.226.222.65,80,US,Amazoncom
 95.169.25.45,443,US,IT7 Networks Inc
+94.131.123.251,2053,GI,Stark Industries Solutions
+94.131.123.251,8443,GI,Stark Industries Solutions
+176.124.215.226,8443,RU,TimeWeb
+185.39.204.55,2053,TR,Global Connectivity Solutions Llp
+83.217.9.110,24443,TR,Global Connectivity Solutions Llp
+103.159.207.172,2086,TW,Emagine Concept
