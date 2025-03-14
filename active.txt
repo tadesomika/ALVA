@@ -16676,3 +16676,6 @@
 185.39.204.55,2053,TR,Global Connectivity Solutions Llp
 83.217.9.110,24443,TR,Global Connectivity Solutions Llp
 103.159.207.172,2086,TW,Emagine Concept
+67.226.223.149,80,GB,Amazoncom
+67.226.223.149,443,GB,Amazoncom
+2.189.59.4,443,DE,netcup
