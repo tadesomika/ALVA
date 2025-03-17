@@ -16104,3 +16104,14 @@
 67.226.221.81,80,US,Amazoncom
 67.226.222.136,80,US,Amazoncom
 67.226.222.70,80,US,Amazoncom
+137.220.39.77,443,US,Vultr
+67.226.223.212,80,GB,Amazoncom
+67.226.223.238,80,GB,Amazoncom
+67.226.223.36,80,GB,Amazoncom
+67.226.223.177,80,GB,Amazoncom
+204.110.223.67,80,US,Amazoncom
+204.110.220.92,80,US,Amazoncom
+139.162.133.162,25351,DE,Akamai Connected Cloud
+139.162.133.162,31956,DE,Akamai Connected Cloud
+45.61.185.75,443,US,FranTech Solutions
+67.226.223.176,80,GB,Amazoncom
