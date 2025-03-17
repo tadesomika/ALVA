@@ -16050,3 +16050,57 @@
 185.39.204.55,2053,TR,Global Connectivity Solutions Llp
 83.217.9.110,24443,TR,Global Connectivity Solutions Llp
 204.110.222.65,80,US,Amazon.com
+38.60.92.27,443,US,Fastnet Data
+23.94.178.69,443,US,ColoCrossing
+212.192.248.200,2053,SE,Aeza International
+129.146.111.62,443,US,Oracle Cloud
+45.85.93.62,443,CH,Serva One
+219.76.13.169,443,HK,Netvigator
+138.3.210.24,443,JP,Oracle Cloud
+176.119.148.163,443,JP,VIRMACH
+152.70.251.65,443,KR,Oracle Cloud
+5.180.181.77,443,NL,Kamatera Inc
+195.245.113.245,443,NL,Friendhosting LTD
+104.243.19.167,443,US,IT7 Networks
+194.39.204.118,443,DE,Cloudflare Warp
+5.78.63.107,443,US,Hetzner Online
+164.92.86.41,8443,US,Digital Ocean
+74.121.149.15,443,US,IT7 Networks
+107.189.2.220,443,LU,FranTech Solutions
+65.21.185.194,2053,FI,Hetzner Online GmbH
+43.156.56.22,7676,SG,Tencent cloud computing
+204.110.221.6,80,CA,Amazoncom
+204.110.221.68,80,CA,Amazoncom
+141.144.253.109,443,DE,Oracle Cloud
+141.144.194.76,443,DE,Zenlayer
+2.189.59.4,443,DE,netcup
+51.254.78.223,443,FR,OVHcloud
+67.226.223.1,80,GB,Amazoncom
+67.226.223.138,80,GB,Amazoncom
+67.226.223.20,80,GB,Amazoncom
+67.226.223.178,80,GB,Amazoncom
+67.226.223.5,80,GB,Amazoncom
+67.226.223.145,80,GB,Amazon.com Inc
+67.226.223.156,80,GB,Amazon.com Inc
+67.226.223.76,80,GB,Amazon.com Inc
+67.226.223.25,80,GB,Amazoncom
+172.104.110.10,443,JP,Akamai Connected Cloud
+221.163.88.207,50000,KR,KT
+106.254.62.105,50000,KR,LG DACOM Corporation
+112.165.218.172,20683,KR,KT
+121.154.44.49,50000,KR,Korea Telecom
+125.143.115.3,50000,KR,Korea Telecom
+146.56.176.143,443,KR,Oracle Cloud
+193.122.101.195,443,KR,Oracle Cloud
+221.165.109.205,50000,KR,KT
+65.20.112.189,8443,SE,Vultr
+70.34.200.17,8443,SE,Vultr
+70.34.213.201,443,SE,Vultr
+89.22.235.173,2045,SE,VDSinacom
+204.110.223.34,80,US,Amazoncom
+204.110.220.252,80,US,Amazoncom
+204.110.220.232,80,US,Amazoncom
+67.226.221.132,80,US,Amazoncom
+67.226.221.81,80,US,Amazoncom
+67.226.222.136,80,US,Amazoncom
+67.226.222.70,80,US,Amazoncom
