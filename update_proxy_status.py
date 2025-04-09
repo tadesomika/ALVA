@@ -39,7 +39,7 @@ def main():
     input_file = os.getenv('IP_FILE', 'active.txt')
     output_file = 'active.txt'
     error_file = 'dead.txt'
-    api_url_template = os.getenv('API_URL', 'https://lodd.vercel.app/{ip}:{port}')
+    api_url_template = os.getenv('API_URL', 'https://proxyip-chk02.vercel.app/{ip}:{port}')
 
     alive_proxies = []  # Menyimpan proxy yang aktif dengan format [ip, port, cc, isp]
     error_logs = []  # Menyimpan pesan error
