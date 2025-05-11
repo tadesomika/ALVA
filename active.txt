@@ -11995,3 +11995,15 @@
 204.110.223.255,80,US,Amazon.com
 67.226.221.135,80,US,Amazon.com
 158.101.24.17,443,US,Oracle Cloud
+5.200.79.81,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
+5.200.79.86,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
+47.112.125.103,443,CN,Hangzhou Alibaba Advertising Co
+4.152.146.110,443,US,Microsoft Azure
+91.108.241.211,8449,FI,Aeza International
+107.175.194.31,443,US,ColoCrossing
+166.0.188.128,57183,US,Akile
+168.138.184.172,443,SG,Oracle Cloud
+178.62.251.210,8443,NL,Digital Ocean
+185.174.137.106,2053,FI,Aeza International
+185.225.200.115,8080,DE,Aeza International
+219.76.13.181,443,HK,Netvigator
