@@ -11860,3 +11860,46 @@
 220.71.170.47,50000,KR,KT
 221.159.156.189,50000,KR,KT
 220.196.190.122,443,CN,China Unicom
+101.200.134.79,443,CN,Hangzhou Alibaba Advertising Co
+119.23.58.20,443,CN,Hangzhou Alibaba Advertising Co
+47.111.229.11,443,CN,Hangzhou Alibaba Advertising Co
+47.92.245.88,443,CN,Hangzhou Alibaba Advertising Co
+47.92.161.8,443,CN,Hangzhou Alibaba Advertising Co
+39.98.224.123,443,CN,Hangzhou Alibaba Advertising Co
+47.114.100.39,443,CN,Hangzhou Alibaba Advertising Co
+31.24.253.141,2053,DE,OVHcloud
+78.129.253.152,443,DE,Digital Ocean
+79.175.176.79,2053,DE,Hetzner Online
+193.176.179.119,443,FR,CGI GLOBAL LIMITED
+78.129.253.148,443,GB,TalkTalk
+40.81.29.103,8089,HK,Microsoft Azure
+5.200.79.80,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
+5.200.79.82,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
+5.200.79.83,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
+5.200.79.85,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
+5.200.79.84,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
+5.200.79.87,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
+5.200.94.190,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
+5.200.79.88,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
+5.200.94.191,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
+37.128.204.34,2053,LV,Sia Veesp
+37.128.207.179,443,LV,Sia Veesp
+46.32.186.234,8443,LV,SIA+VEESP
+5.34.210.151,2053,LV,Sia Veesp
+5.34.210.67,2053,LV,Sia Veesp
+5.34.212.179,8443,LV,Sia Veesp
+23.82.137.158,443,LD,Stark Industries Solutions
+41.76.42.116,443,LU,Mauritius Telecom
+213.218.238.191,2053,PL,OVHcloud
+217.197.107.14,2053,RU,Aeza International
+193.188.21.83,2053,SE,Aeza International
+193.188.21.83,8443,SE,Aeza International
+152.69.209.132,443,SG,Oracle Cloud
+77.245.156.166,443,TR,Niobe Telekomunikasyon Bilisim Teknolojileri Yazil
+107.172.142.156,443,US,ColoCrossing
+107.175.222.33,8443,US,ColoCrossing
+139.144.204.249,587,US,Akamai Connected Cloud
+176.120.75.32,23352,US,STARK+INDUSTRIES+SOLUTIONS+LTD
+192.3.7.50,27894,US,ColoCrossing
+45.8.146.85,23352,US,PQ HOSTING SRL
+45.77.111.6,443,US,Vultr
