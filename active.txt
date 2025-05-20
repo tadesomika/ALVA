@@ -11689,3 +11689,37 @@
 64.64.227.230,7788,US,IT7 Networks
 45.8.146.85,23352,US,PQ HOSTING S.R.L
 103.170.72.120,27013,US,Beijing Fengniao Network Technology Co.
+34.69.150.180,443,US,Google Cloud
+39.98.224.123,443,CN,Hangzhou Alibaba Advertising Co
+45.76.247.142,443,US,Vultr
+45.149.63.141,2053,PL,OVHcloud
+46.30.46.217,443,NL,Iron Hosting Centre
+47.92.161.8,443,CN,Hangzhou Alibaba Advertising Co
+47.92.245.88,443,CN,Hangzhou Alibaba Advertising Co
+47.111.229.11,443,CN,Hangzhou Alibaba Advertising Co
+47.114.100.39,443,CN,Hangzhou Alibaba Advertising Co
+47.238.4.167,443,HK,Alibaba
+65.20.115.38,2053,SE,Vultr
+65.20.115.38,8443,SE,Vultr
+65.109.181.130,443,US,HostRoyale LLC
+70.34.199.167,2096,SE,Vultr
+70.34.218.89,443,SE,Vultr
+83.168.110.174,443,PL,SkyPass Solutions Sp zoo
+85.10.253.205,443,DE,Hetzner Online
+91.108.241.211,8449,FI,Aeza International
+95.182.120.34,8443,RU,Russia High Speed Online LLC
+101.200.134.79,443,CN,Hangzhou Alibaba Advertising Co
+103.115.253.253,443,BD,Star Internet Service
+107.172.90.5,443,US,ColoCrossing
+107.175.194.31,443,US,ColoCrossing
+109.120.133.56,2053,SE,Aeza International
+119.23.58.20,443,CN,Hangzhou Alibaba Advertising Co
+146.103.49.178,2053,FR,OVHcloud
+157.90.250.119,443,DE,Hetzner Online
+168.138.184.172,443,SG,Oracle Cloud
+185.59.251.86,443,DE,adesso as a service
+185.174.137.106,8443,FI,Aeza International
+185.198.167.14,443,NL,Friendhosting LTD
+185.203.243.56,443,NL,Zomro
+188.126.77.159,443,SE,GleSYS Internet Services AB
+198.23.196.250,443,US,ColoCrossing
