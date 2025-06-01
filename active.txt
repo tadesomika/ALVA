@@ -10811,3 +10811,40 @@
 95.169.25.45,443,US,IT7 Networks Inc
 93.179.114.142,443,US,IT7 Networks Inc
 47.114.93.190,443,CN,Hangzhou Alibaba Advertising Co
+64.21.191.164,443,CA,N6CLOUD
+185.225.200.115,8080,DE,Aeza International
+91.108.241.3,2053,FI,Aeza International
+77.221.158.1,2053,FI,Aeza International
+45.156.22.114,443,FI,CGI GLOBAL LIMITED
+94.131.100.136,2053,FI,Stark Industries Solutions LTD
+91.103.140.221,2053,FI,Aeza International
+91.103.140.221,8443,FI,Aeza International
+109.120.187.52,2053,FI,Aeza International
+92.119.124.224,2053,FR,velia.net Internetdienste
+95.164.18.211,23352,GB,PQ HOSTING S.R.L
+192.243.127.224,443,JP,IT7 Networks
+195.123.212.163,2053,LV,Green Floid
+195.123.212.163,8443,LV,Green Floid
+5.34.211.194,2053,LV,Sia Veesp
+5.34.211.194,8443,LV,Sia Veesp
+5.182.86.15,443,NL,Aeza International
+150.241.70.95,2053,NL,Aeza International
+150.241.70.95,8443,NL,Aeza International
+80.211.250.20,2053,PL,Aruba Networks
+188.93.140.11,443,SE,HostHatch
+77.221.143.62,2053,SE,Aeza International
+77.221.143.62,8443,SE,Aeza International
+89.22.235.92,2053,SE,VDSina.com
+194.36.178.36,2053,SG,Neapol Group Ltd
+198.12.121.169,24863,US,Cloudflare Warp
+23.105.199.91,21626,US,IT7 Networks
+64.69.37.83,9999,US,Multacom Corporation
+38.150.34.152,443,US,NetLab
+104.168.43.27,17635,US,Cloudflare Warp
+172.96.209.184,13733,US,IT7 Networks Inc
+104.168.43.27,37190,US,Cloudflare Warp
+104.168.43.27,15658,US,Cloudflare Warp
+104.168.43.27,54063,US,Cloudflare Warp
+45.8.146.221,23352,US,PQ HOSTING S.R.L
+80.251.219.120,14105,US,IT7 Networks
+45.8.146.85,23352,US,PQ HOSTING S.R.L
