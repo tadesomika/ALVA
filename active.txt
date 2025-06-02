@@ -10872,3 +10872,4 @@
 83.147.252.76,443,SG,Aeza International
 83.147.252.97,443,SG,Aeza International
 91.236.169.56,8443,US,Hetzner Online
+103.130.17.116,12336,ID,MyRepublic Indonesia
