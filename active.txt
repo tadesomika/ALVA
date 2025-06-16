@@ -9990,3 +9990,4 @@
 104.234.50.12,8443,US,Private Customer
 64.64.227.230,7788,US,Cluster Logic Inc
 158.101.24.17,443,US,Oracle Public Cloud
+172.232.239.134,443,ID,Linode
