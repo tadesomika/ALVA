@@ -15735,3 +15735,7 @@
 93.179.114.142,443,US,Cluster Logic Inc
 107.172.86.254,443,US,RackNerd LLC
 95.169.25.45,443,US,Cluster Logic Inc
+185.230.143.122,2053,SE,Aeza International LTD
+185.230.143.122,443,SE,Aeza International LTD
+89.22.226.1,2053,SE,Aeza International LTD
+168.138.184.172,443,SG,Oracle Public Cloud
